@@ -1,10 +1,6 @@
-### Demo:
+### Live at:
 
-https://nextjs-tailwindcss-beautiful-blog-template-6bhlgxk4v.vercel.app/sample-blog
-
-# How to make this blog yours?
-
-This is a Blog template using NextJS and React
+https://lodelux.github.io/personalWebsite
 
 ### Technologies Used
 
@@ -15,12 +11,6 @@ This is a Blog template using NextJS and React
 - Syntax Highlighter
 - Github actions
 - Github pages
-
-### How to use it
-
-See the following youtube tutorial how to use this template and get your own version in 5 minutes.
-
-https://youtu.be/lEljvKRtU4c
 
 ### Features
 
