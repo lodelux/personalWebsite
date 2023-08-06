@@ -13,7 +13,7 @@ date: 6 August 2023
 ---
 
 <div align="center">
-   ![img.png](/personalWebsite//images/vscode-login/prompt.png)
+   ![img.png](/images/vscode-login/prompt.png)
 </div>
 If you are encountering the  issue that on every launch of Vscode, you are prompted to login on your Github
 account for syncing vscode, use github repos or use copilot then you are not alone as I also had this problem and for
