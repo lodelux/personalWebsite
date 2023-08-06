@@ -36,7 +36,7 @@ function Header() {
                         className="text-gray-900 dark:text-white"
                         onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
                     >
-                        {theme === "dark" ? <FaSun/> : <FaRegMoon/>}
+                        {theme != "light" ? <FaSun/> : <FaRegMoon/>}
                     </button>
                 </nav>
             </div>
