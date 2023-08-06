@@ -25,7 +25,7 @@ async function generateSitemap() {
 
   blogPaths = blogPaths.map(
     (rawBlogName) =>
-      "blog" + rawBlogName.replace("_posts", "").replace(".md", "")
+      rawBlogName.replace("_posts", "").replace(".md", "")
   );
 
   pagesPaths = pagesPaths.map((rawPageName) =>
