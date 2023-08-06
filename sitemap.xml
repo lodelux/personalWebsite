@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
-    <loc>https://lodelux.github.io/personalWebsite/</loc>
-    <lastmod>2023-08-06T14:06:05.449Z</lastmod>
+    <loc>https://lodelux.dev/</loc>
+    <lastmod>2023-08-06T15:56:34.954Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
-    <loc>https://lodelux.github.io/personalWebsite/blog/vscode-login</loc>
-    <lastmod>2023-08-06T14:06:05.449Z</lastmod>
+    <loc>https://lodelux.dev/blog/vscode-login</loc>
+    <lastmod>2023-08-06T15:56:34.954Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
